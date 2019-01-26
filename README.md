@@ -8,7 +8,7 @@ Star wars search, connected with API 🌌👽
 ### About 
 The beginning of the application was done with the help of the course, while all the rest and other options I did myself. I used the webpack for the second time, I set it up myself.
 
-### Tech
+### Tech                                ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)                                              
 * Javascript
 * Bootstrap
 * SCSS
@@ -16,7 +16,6 @@ The beginning of the application was done with the help of the course, while all
 * Simple API
 * Git
 
-![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)
 
 
 ### Source
