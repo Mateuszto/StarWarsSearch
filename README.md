@@ -15,7 +15,10 @@ The beginning of the application was done with the help of the course, while all
 * Webpack
 * Simple API
 * Git
-<a href="https://giphy.com/gifs/l0K4k1O7RJSghST3a/html5"><img src="https://giphy.com/gifs/l0K4k1O7RJSghST3a/html5"></a>
+
+<iframe src="https://gfycat.com/anguishedwhoppinggrayreefshark"></iframe>
+
+
 ### Source
 https://swapi.co/
 
