@@ -12,7 +12,7 @@
 
 <h2 align="center">About</h2>
 <p align="center">
-The beginning of the application was done with the help of the course that help me with webpack, while all the rest and other options I did myself. I used the webpack for the first time. </p>
+The beginning of the application was done with the help of the course that help me with webpack, then all the rest and other options I did myself. I used the webpack for the first time. </p>
 
 
 
