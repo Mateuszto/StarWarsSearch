@@ -16,7 +16,7 @@ The beginning of the application was done with the help of the course, while all
 * Simple API
 * Git
 
-### Source
+### Source ![https://giphy.com/gifs/l0K4k1O7RJSghST3a/html5](https://giphy.com/gifs/l0K4k1O7RJSghST3a/html5)
 https://swapi.co/
 
 #### Install
