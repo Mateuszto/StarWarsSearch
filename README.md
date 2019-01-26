@@ -6,12 +6,12 @@ Star wars search, connected with API 🌌👽
 The beginning of the application was done with the help of the course, while all the rest and other options I did myself. I used the webpack for the second time, I set it up myself.
 
 ### Tech
-* [Javascript]
-* [Bootstrap]
-* [SCSS]
-* [Webpack]
-* [Simple API]
-* [Git]
+* Javascript
+* Bootstrap
+* SCSS
+* Webpack
+* Simple API
+* Git
 
 ### Source
 https://swapi.co/
