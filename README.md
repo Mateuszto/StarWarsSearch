@@ -3,9 +3,9 @@
 <p align="center">🌌 Star wars search, connected with API 👽<p>
 
 
-
+<div align="center">
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+</div>
 
  ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)  
 
