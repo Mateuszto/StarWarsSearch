@@ -1,14 +1,13 @@
 
 <h2 align="center">🚀S T A R W A R S S E A R C H🚀</h2>
 <p align="center">🌌 Star wars search, connected with API 👽<p>
+<p align="center">
+ <img src="https://i.imgur.com/rwFBnYI.gif" href="" height="256">
 
-
-<img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
- ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)  
 
 
 ### About 
