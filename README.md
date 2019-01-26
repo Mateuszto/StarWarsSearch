@@ -1,10 +1,11 @@
-# StarWarsSearch
+
+<h2 align="center">🚀S T A R W A R S S E A R C H🚀</h2>
+<p align="center">🌌 Star wars search, connected with API 👽<p>
 
 
-Star wars search, connected with API 🌌👽
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-<a href="https://ci.appveyor.com/project/xxczaki/oji"><img src="https://ci.appveyor.com/api/projects/status/sbxv43mauvm359av?svg=true" alt="AppVeyor Build Status"></a>
+
 
  ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)  
 
