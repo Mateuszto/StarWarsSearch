@@ -16,8 +16,7 @@ The beginning of the application was done with the help of the course, while all
 * Simple API
 * Git
 
-<iframe src="https://gfycat.com/anguishedwhoppinggrayreefshark"></iframe>
-
+<iframe src="https://giphy.com/embed/3ornjU0VM71ODjzjuU" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-3ornjU0VM71ODjzjuU">via GIPHY</a></p>
 
 ### Source
 https://swapi.co/
