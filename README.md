@@ -5,9 +5,8 @@ Star wars search, connected with API 🌌👽
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-<p align="center">
-  ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)  
-</p>
+
+ ![STARWARS](https://media.giphy.com/media/3ornjU0VM71ODjzjuU/giphy.gif)  
 
 
 ### About 
