@@ -16,7 +16,6 @@ The beginning of the application was done with the help of the course, while all
 
 
 
-
 ### Tech                                                                            
 * Javascript
 * Bootstrap
