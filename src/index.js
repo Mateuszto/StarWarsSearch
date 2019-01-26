@@ -22,6 +22,15 @@ const showResults = (searchOption, results) => {
     } else if (searchOption === 'people') {
         html = results.map(result =>
             generateHTML(`<b>Name:</b> ${result.name}, <b>Height: </b> ${result.height}, <b>Mass: </b> ${result.mass}, <b>Hair color: </b> ${result.hair_color}, <b>Birth: </b>${result.birth_year}`));
+    } else if (searchOption === 'starships') {
+        html = results.map(result =>
+            generateHTML(`<b>Name: </b> ${result.name}, <b>Model: </b> ${result.model}, <b>Class: </b> ${result.starship_class}`));
+    } else if (searchOption === 'planets') {
+        html = results.map(result =>
+            generateHTML(`<b>Name: </b> ${result.name}, <b>Gravity: </b> ${result.gravity}, <b>Population: </b> ${result.population}, <b>Climate: </b> ${result.climate}`));
+    } else if (searchOption === 'vehicles') {
+        html = results.map(result =>
+            generateHTML(`<b>Name: </b> ${result.name}, <b>Length: </b> ${result.length}, <b>Model: </b> ${result.model}`))
     }
 
     searchResultsEl.innerHTML = html.join('');
