@@ -4,14 +4,17 @@
 <p align="center">
  <img src="https://i.imgur.com/rwFBnYI.gif" href="" height="256">
 
-<p align="center>
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 
 
-### About 
-The beginning of the application was done with the help of the course, while all the rest and other options I did myself. I used the webpack for the second time, I set it up myself.
+<h2 align="center">About</h2>
+<p align="center">
+The beginning of the application was done with the help of the course, while all the rest and other options I did myself. I used the webpack for the second time, I set it up myself. </p>
+
+
+
 
 ### Tech                                                                            
 * Javascript
