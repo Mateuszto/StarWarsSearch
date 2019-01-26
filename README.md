@@ -5,8 +5,9 @@
  <img src="https://i.imgur.com/rwFBnYI.gif" href="" height="256">
 
 <p align="center"
+<a href="https://changelog.travis-ci.com/">
 <img src="https://travis-ci.org/joemccann/dillinger.svg?branch=master">
-
+</a>
 
 
 <h2 align="center">About</h2>
