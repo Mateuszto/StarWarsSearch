@@ -1,8 +1,10 @@
-body{
+body {
     height: 120vh;
-    background-image: linear-gradient(to top right,#161719 , #011130 );
-    h1{
-        color: rgb(216, 202, 4);
+    background-image: linear-gradient(to top right, #161719, #011130);
+
+    h1 {
+        text-shadow: 0 0 19px rgb(239, 243, 2);
+        color: rgb(196, 199, 15);
         text-align: center;
         padding-top: 35px;
         font-size: 62px;
