@@ -4,8 +4,14 @@
 <p align="center">
  <img src="https://i.imgur.com/rwFBnYI.gif" href="" height="256">
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+<p>
+ <p>
+  <p>
+   <p>
+
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
 
