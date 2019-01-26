@@ -1,6 +1,5 @@
 # StarWarsSearch
 
-<p align="center">
 
 Star wars search, connected with API 🌌👽
 
@@ -43,4 +42,3 @@ License
 
 MIT
 
-</p>
